@@ -1,0 +1,30 @@
+<!--{"parserOptions": {"parser":"babel-eslint"}}-->
+<script>
+export
+  Foo
+  ,
+  {
+    a
+      as
+      A
+    ,
+    b
+      as
+      B
+  }
+  from
+  "mod"
+;
+export
+  Bar,
+  {
+    c
+      as
+      C,
+    d
+      as
+      D
+  }
+  from
+  "mod"
+</script>

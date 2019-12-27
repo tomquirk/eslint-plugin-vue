@@ -1,0 +1,19 @@
+<!--{"parserOptions": {"parser":"babel-eslint"}}-->
+<script>
+export
+  Foo
+  ,
+  *
+    as
+    fooAll
+  from
+  "mod"
+;
+export
+  Bar,
+  *
+    as
+    barAll
+  from
+  "mod"
+</script>
